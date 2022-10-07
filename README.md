@@ -1,2 +1,2 @@
 # Number-Guess
-KCIS 2022
+Made by Sean Hu
